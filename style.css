@@ -1,0 +1,15 @@
+body{
+ background-color: lightgreen;
+}
+.score_span{
+ font-size: 34px;
+ margin: 10px;
+}
+.timer_span{
+ font-size: 34px;
+ float: right;
+ margin-right: 15px;
+}
+p{
+ font-size: large
+}
